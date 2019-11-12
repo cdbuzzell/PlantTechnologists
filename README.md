@@ -15,6 +15,7 @@ The day's agenda and resources for training, announcements, and roadmap conversa
 ### New Announcements
 - Office Flash Friday: https://aka.ms/OFF
 - Ignite 2019 Book of News: https://news.microsoft.com/wp-content/uploads/prod/sites/563/2019/11/Ignite-2019-Book-of-News.pdf
-
+### Governance
+- Power Platform Governance and Deployment https://powerapps.microsoft.com/en-us/blog/powerapps-enterprise-deployment-whitepaper/
 ## Office 365 Overview
 ![Hub for Teamwork Diagram](Images/TeamworkProductsWhiteboard.png)
