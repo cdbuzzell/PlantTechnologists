@@ -1,5 +1,5 @@
 # Plant Technologists
-Resources for training, additional information, and roadmap conversations
+The day's agenda and resources for training, announcements, and roadmap conversations.
 
 ## Agenda
 ![Agenda](Images/Agenda.png)
