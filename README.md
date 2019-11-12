@@ -1,5 +1,5 @@
 # Plant Technologists
-The day's agenda and resources for training, announcements, and roadmap conversations.
+The day's agenda and resources for training, announcements, and roadmap conversations. Visit https://microsoft.com/mtc for more information about Microsoft Technology Center offerings and locations.
 
 ## Agenda
 ![Agenda](Images/Agenda.png)
